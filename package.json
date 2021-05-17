@@ -1,7 +1,7 @@
 {
-  "name": "falabella",
+  "name": "wfm-service",
   "version": "1.0.0",
-  "description": "Full Stack App",
+  "description": "Full Stack Food Delivery App",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
